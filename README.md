@@ -34,6 +34,8 @@ To do so, the user should:
 
 For users with no previous experience with Matlab, a [short introduction](https://www.youtube.com/watch?v=0T2a-lZhMsk) to the software is recommended.
 
+NB: we strongly recommended to NOT add the COFFEE_BREAK_FDGPET folder to the Matlab path; this can cause issues if multiple versions of the code get downloaded on the same computer
+
 
 
 ## Pre-processing and processing
